@@ -1,0 +1,6 @@
+mlruns
+dataset
+lightning_logs
+example2
+epoch=*
+conda.yaml
